@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="ADMIN.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Change Password.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CRUD.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FINAL GRADE.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Finals.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LogIn.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Midterm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NEWITEM.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PROF SELECTION.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PROFILESTUD.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ProfProfileForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PROFPROFILE_UPDATE.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PROF_UPDATE_FINALS.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Prof_up_de.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RecoveryAcc.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Schedule.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Semestral.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Subject_Assign.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="COURSE SELECTION.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MDI.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ProfAccountForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Section_Assign.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Student Assign.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="STUDENT SELECTION.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="StudentAccountForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UPDATE_DELETE.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Update_Delete_Course.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UPDATE_DELETE_PROF.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="User Account.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
